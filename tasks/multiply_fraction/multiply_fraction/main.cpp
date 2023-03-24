@@ -19,7 +19,10 @@ class Fraction {
 	int denominator;
 
 public:
-	Fraction() {};
+	Fraction() {
+		numerator = 0;
+		denominator = 0;
+	};
 	Fraction(int nume, int denome) {
 		numerator = nume;
 		denominator = denome;
@@ -62,7 +65,7 @@ int main() {
 
 	Fraction mult = frac1 * frac2;
 
-	cout << "(" << frac1 << ") * (" << frac2 << ") = " << mult << endl;
+	cout << endl << "(" << frac1 << ") * (" << frac2 << ") = " << mult << endl;
 
 	return 0;
 }
