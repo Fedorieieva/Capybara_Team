@@ -1,12 +1,13 @@
 #include <iostream>
 #include <iomanip>
 
-/*- Розробити клас Point, що містить координати х та у
-- Розробити Points, що містить масив об'єктів Point
-- В основній програмі створити два об'єкти-масиви Points, 
-	створити еще один об'єкт-масив Points, 
-	у якому необхідно записати усі точки І чверті
-- Знайти точки з останнього об'єкта-масива, між якими найбільша відстань */
+/*Develop a Point class that contains the x and y coordinates
+-Develop Points that contains an array of Point objects
+-In the main program, create two Points array objects,
+	create another Points array object,
+	in which all points in the first quadrant must be recorded.
+-Find the points from the last Points array object, 
+	between which the greatest distance exists.*/
 
 using namespace std;
 
