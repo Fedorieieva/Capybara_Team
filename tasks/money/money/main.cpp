@@ -26,7 +26,8 @@ class Money {
     }
 
 public:
-    Money() {}
+    Money() { hryvnias = 0, pennies = 0; }
+
     Money(int hr, int pn) {
         hryvnias = hr;
         pennies = pn;
