@@ -25,7 +25,11 @@ class Budget {
     }
 
 public:
-    Budget() {}
+    Budget() {
+        hryvnias = 0;
+        pennies = 0;
+    }
+
     Budget(int hr, int pn) {
         hryvnias = hr;
         pennies = pn;
