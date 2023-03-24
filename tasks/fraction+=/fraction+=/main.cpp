@@ -1,5 +1,18 @@
 #include <iostream>
 
+/*Design a class to represent an improper fraction, which is 
+defined by its numerator and denominator.
+The class should have a constructor with a parameter of 
+the form "numerator / denominator" (for example, "11/3"), 
+as well as other possible constructors. It should also have 
+a method for displaying the fraction object, as well
+as other input/output methods and methods for performing 
+specific tasks. Develop a program that creates two improper 
+fractions using the Fraction class and increases each of them 
+by a specified integer value (using the overloaded operator "+=").
+The program should provide a clear display of all input, output, and 
+intermediate data using the overloaded standard output stream operator "<<".*/
+
 using namespace std;
 
 class Fraction {
@@ -7,10 +20,7 @@ class Fraction {
 	int denominator;
 
 public:
-	Fraction(){
-		numerator = 0;
-		denominator = 0;
-	}
+	Fraction(){	numerator = 0, denominator = 0; }
 
 	Fraction(int nume, int denomi) {
 		numerator = nume;
