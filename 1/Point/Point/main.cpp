@@ -40,7 +40,7 @@ void input_points(Point* points, int initial, int& num) {
 	do {
 		if (num == max_size) {
 			max_size *= 2;
-			Point* new_points = new Point[initial];
+			Point* new_points = new Point[max_size];
 
 			for (int i = 0; i < num; i++) {
 				new_points[i] = points[i];
