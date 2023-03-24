@@ -33,8 +33,7 @@ public:
 	}
 
 	friend ostream& operator <<(ostream& os, const Fraction& f) {
-		os << f.numerator << ":";
-		os << f.denominator << endl;
+		os << f.numerator << ":" << f.denominator;
 		return os;
 	}
 };
@@ -58,12 +57,12 @@ int main() {
 	cin >> denome;
 	Fraction frac2(nume, denome);
 
-	cout << endl << "Fraction 1 = " << frac1;
-	cout << "Fraction 2 = " << frac2;
+	cout << endl << "Fraction 1 = " << frac1 << endl;
+	cout << "Fraction 2 = " << frac2 << endl;
 
 	Fraction mult = frac1 * frac2;
 
-	cout << endl << "Result of multiplicating fractions: " << mult;
+	cout << "(" << frac1 << ") * (" << frac2 << ") = " << mult << endl;
 
 	return 0;
 }
