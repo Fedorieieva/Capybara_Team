@@ -23,25 +23,12 @@ class Fraction {
 	int numerator;
 	int denominator;
 
-	//ме гбепрюире сбюцх мю гюйнлемвемс тсмйж╡ч !
-
-	/*void check_input() {
+	void check_input() {
 		if (denominator == 0) {
 			cout << "[Error] Division by 0" << endl;
 			exit(1);
 		}
-
-		int negative = 0;
-		if (num < 0) negative++;
-		else if (numerator < 0) negative++;
-		else if (denominator < 0) negative++;
-
-		if (negative == 2) {
-			num = abs(num);
-			numerator = abs(numerator);
-			denominator = abs(denominator);
-		}
-	}*/
+	}
 
 public:
 	Fraction() {
@@ -54,7 +41,7 @@ public:
 		num = n;
 		numerator = nume;
 		denominator = denomi;
-		//check_input();
+		check_input();
 	}
 
 	bool operator >(const Fraction& other) {
