@@ -17,7 +17,10 @@ class Point {
 
 public:
 
-	Point(){}
+	Point(){
+		x = 0;
+		y = 0;
+	}
 
 	Point(int valuex, int valuey) {
 		x = valuex;
@@ -122,7 +125,7 @@ int main() {
 	points_first_quadrant[point1].print();
 	cout << "Point " << point2 + 1 << ":" << endl;
 	points_first_quadrant[point2].print();
-	cout << "segment = " << segment(points_first_quadrant[point1], points_first_quadrant[point2]);
+	cout << "segment = " << segment(points_first_quadrant[point1], points_first_quadrant[point2]) << endl;
 
 	delete[] points;
 	delete[] points_first_quadrant;
