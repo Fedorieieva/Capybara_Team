@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\visual studio\improper_fraction+\improper_fraction+\main.cpp(10,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\improper_fraction+\improper_fraction+\main.cpp(23,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  improper_fraction+.vcxproj -> C:\Users\Admin\Desktop\visual studio\improper_fraction+\x64\Debug\improper_fraction+.exe
