@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\visual studio\fraction++\fraction++\main.cpp(10,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\fraction++\fraction++\main.cpp(24,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\fraction++\fraction++\main.cpp(28,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\fraction++\fraction++\main.cpp(38,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  fraction++.vcxproj -> C:\Users\Admin\Desktop\visual studio\fraction++\x64\Debug\fraction++.exe
