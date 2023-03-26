@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\visual studio\proper_fraction+\proper_fraction+\main.cpp(24,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\proper_fraction+\proper_fraction+\main.cpp(43,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\proper_fraction+\proper_fraction+\main.cpp(47,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  proper_fraction+.vcxproj -> C:\Users\Admin\Desktop\visual studio\proper_fraction+\x64\Debug\proper_fraction+.exe
