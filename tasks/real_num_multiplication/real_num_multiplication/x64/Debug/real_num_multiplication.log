@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\visual studio\real_num_multiplication\real_num_multiplication\main.cpp(15,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\real_num_multiplication\real_num_multiplication\main.cpp(18,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  real_num_multiplication.vcxproj -> C:\Users\Admin\Desktop\visual studio\real_num_multiplication\x64\Debug\real_num_multiplication.exe
