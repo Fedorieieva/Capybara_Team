@@ -1,2 +1,7 @@
 ﻿  main.cpp
-  improper_fraction_multiplication.vcxproj -> C:\Users\Admin\Desktop\visual studio\improper_fraction_multiplication\x64\Debug\improper_fraction_multiplication.exe
+C:\Users\Admin\OneDrive\Робочий стіл\Capybara\tasks\improper_fraction_multiplication\improper_fraction_multiplication\main.cpp(25,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\OneDrive\Робочий стіл\Capybara\tasks\improper_fraction_multiplication\improper_fraction_multiplication\main.cpp(43,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\OneDrive\Робочий стіл\Capybara\tasks\improper_fraction_multiplication\improper_fraction_multiplication\main.cpp(45,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\OneDrive\Робочий стіл\Capybara\tasks\improper_fraction_multiplication\improper_fraction_multiplication\main.cpp(51,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\OneDrive\Робочий стіл\Capybara\tasks\improper_fraction_multiplication\improper_fraction_multiplication\main.cpp(53,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  improper_fraction_multiplication.vcxproj -> C:\Users\Admin\OneDrive\Робочий стіл\Capybara\tasks\improper_fraction_multiplication\x64\Debug\improper_fraction_multiplication.exe
