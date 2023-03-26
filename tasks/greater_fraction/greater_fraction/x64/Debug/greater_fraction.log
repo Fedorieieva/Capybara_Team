@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Admin\Desktop\visual studio\greater_fraction\greater_fraction\Source.cpp(10,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\greater_fraction\greater_fraction\Source.cpp(24,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\greater_fraction\greater_fraction\Source.cpp(28,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  greater_fraction.vcxproj -> C:\Users\Admin\Desktop\visual studio\greater_fraction\x64\Debug\greater_fraction.exe
