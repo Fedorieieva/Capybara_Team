@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\visual studio\var2_convex_quadrilateral\var2_convex_quadrilateral\main.cpp(117,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  var2_convex_quadrilateral.vcxproj -> C:\Users\Admin\Desktop\visual studio\var2_convex_quadrilateral\x64\Debug\var2_convex_quadrilateral.exe
