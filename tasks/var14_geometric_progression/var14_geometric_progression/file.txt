@@ -1,0 +1,10 @@
+Geometric progression 1:
+b = 8
+q = 0.5
+n = 5
+Last element 1 = 0.5
+Geometric progression 2:
+b = 6
+q = 3
+n = 4
+Last element 2 = 162
