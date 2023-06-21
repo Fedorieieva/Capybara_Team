@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{b6b4301e-df40-4cdf-bd74-c31c6d7b35b4}</ProjectGuid>
+    <ProjectGuid>{d353a044-ad06-4fb8-8668-d77339724f6a}</ProjectGuid>
     <RootNamespace>definedsizearrayvector</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
