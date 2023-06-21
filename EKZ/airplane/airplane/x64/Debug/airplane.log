@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\visual studio\airplane\airplane\main.cpp(186,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\airplane\airplane\main.cpp(187,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\airplane\airplane\main.cpp(253,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  airplane.vcxproj -> C:\Users\Admin\Desktop\visual studio\airplane\x64\Debug\airplane.exe

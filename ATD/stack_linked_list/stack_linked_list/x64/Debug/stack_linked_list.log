@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\stack_linked_list\stack_linked_list\main.cpp(66): warning C4715: Stack::peek: значение возвращается не при всех путях выполнения
+C:\Users\Admin\source\repos\stack_linked_list\stack_linked_list\main.cpp(57): warning C4715: Stack::pop: значение возвращается не при всех путях выполнения
+  stack_linked_list.vcxproj -> C:\Users\Admin\source\repos\stack_linked_list\x64\Debug\stack_linked_list.exe

@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\visual studio\spisok\spisok\main.cpp(170,7): warning C4594: для класса "D5" никогда нельзя создать экземпляр — непрямой виртуальный базовый класс "B" является недоступным
+C:\Users\Admin\Desktop\visual studio\spisok\spisok\main.cpp(126,28): message : "B" является базовым классом private для "D2"
+C:\Users\Admin\Desktop\visual studio\spisok\spisok\main.cpp(184,1): warning C4624: "D5": деструктор неявно определен как удаленный
+C:\Users\Admin\Desktop\visual studio\spisok\spisok\main.cpp(194,1): error C2280: "D5::~D5(void)": предпринята попытка ссылки на удаленную функцию
+C:\Users\Admin\Desktop\visual studio\spisok\spisok\main.cpp(184,1): message : в этом месте создано компилятором: "D5::~D5"
+C:\Users\Admin\Desktop\visual studio\spisok\spisok\main.cpp(184,1): message : "D5::~D5(void)": функция неявно удалена, так как деструктор косвенного виртуального базового класса "D5" недоступен.
+C:\Users\Admin\Desktop\visual studio\spisok\spisok\main.cpp(184,1): message : Сообщение диагностики возникло в созданной компилятором функции "void D5::__vbaseDtor(void)"
+C:\Users\Admin\Desktop\visual studio\spisok\spisok\main.cpp(188,7): message : см. ссылку на функцию "void D5::__vbaseDtor(void)"

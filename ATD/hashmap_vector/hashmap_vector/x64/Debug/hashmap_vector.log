@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\hashmap_vector\hashmap_vector\main.cpp(20,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\hashmap_vector\hashmap_vector\main.cpp(30,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\hashmap_vector\hashmap_vector\main.cpp(40,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\source\repos\hashmap_vector\hashmap_vector\main.cpp(52,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  hashmap_vector.vcxproj -> C:\Users\Admin\source\repos\hashmap_vector\x64\Debug\hashmap_vector.exe

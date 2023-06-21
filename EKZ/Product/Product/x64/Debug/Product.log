@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\visual studio\Product\Product\main.cpp(144,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\Product\Product\main.cpp(149,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\Product\Product\main.cpp(150,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\Product\Product\main.cpp(157,25): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\Product\Product\main.cpp(158,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\Product\Product\main.cpp(166,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\Product\Product\main.cpp(167,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Desktop\visual studio\Product\Product\main.cpp(455,61): warning C4305: аргумент: усечение из "double" в "float"
+  Product.vcxproj -> C:\Users\Admin\Desktop\visual studio\Product\x64\Debug\Product.exe

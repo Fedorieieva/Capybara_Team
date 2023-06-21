@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Admin\source\repos\queue_vector\queue_vector\main.cpp(27,28): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  queue_vector.vcxproj -> C:\Users\Admin\source\repos\queue_vector\x64\Debug\queue_vector.exe
